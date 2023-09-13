@@ -1,0 +1,46 @@
+/* App.css */
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+/* GoldRateCard.css */
+.gold-rate-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: gold;
+  border-radius: 10px;
+  padding: 20px;
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.coin-logo {
+  width: 50px;
+  height: 50px;
+  background-color: yellow; /* Replace with your coin logo */
+  border-radius: 50%;
+}
+
+.rate {
+  font-size: 24px;
+  margin-top: 10px;
+}
+
+/* InputFields.css */
+.input-fields {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.input {
+  padding: 10px;
+  margin: 0 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 120px;
+  text-align: center;
+}

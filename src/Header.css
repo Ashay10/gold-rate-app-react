@@ -1,0 +1,22 @@
+/* Header.css */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: white;
+    color: black;
+  }
+  
+  .brand {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .profile-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: gray; /* You can replace this with your profile icon */
+  }
+  
